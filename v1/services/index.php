@@ -31,7 +31,7 @@ if($_version == 'v1'){
                             "id" => 1,
                             "titulo" => [
                                 "esp" => "consultoria digital",
-                                "eng" => "Digital Consultant"
+                                "eng" => "Digital Consult"
                             ],
                             "texto" => [
                                 "esp" => "Identificamos las fallas y conectamos los puntos entre tu negocio y tu estrategia digital. Nuestro equipo experto
@@ -46,7 +46,7 @@ if($_version == 'v1'){
                             "id" => 2,
                             "titulo" => [
                                 "esp" => "Soluciones multiexperiencia",
-                                "eng" => "Multi-experience solutions"
+                                "eng" => "Multi experience solutions"
                             ],
                             "texto" => [
                                 "esp" => "Deleitamos a las personas usuarias interfaces con experiencias interconectadas a través de aplicaciones web, móviles, conversacionales, digital twin, IoT y AR. Su arquitectura puede adaptarse y evolucionar para adaptarse a los cambios de tu organización.",
@@ -58,7 +58,7 @@ if($_version == 'v1'){
                             "id" => 3,
                             "titulo" => [
                                 "esp" => "Evolución de ecosistema",
-                                "eng" => "Ecosystem evolution"
+                                "eng" => "Ecosystem evol"
                             ],
                             "texto" => [
                                 "esp" => "Ayudamos a las empresas a evolucionar y ejecutar sus aplicaciones de forma eficiente, desplegando equipos especializados en la modernización y el mantenimiento de ecosistemas técnicos. Creando soluciones robustas en tecnologías de vanguardia",
