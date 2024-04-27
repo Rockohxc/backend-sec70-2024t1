@@ -31,7 +31,7 @@ if($_version == 'v1'){
                             "mision" => [
                                 "titulo" => [
                                     "esp" => "mision",
-                                    "eng" => "Mision"
+                                    "eng" => "Mission"
                                 ],
                                 "contenido" => [
                                     "esp" => "Nuestra misión es ofrecer soluciones digitales innovadoras y de alta calidad que impulsen el éxito de nuestros cliehtes, ayudándolos a alcanzar sus objetipos empresariales a través de la tecnología y la",
@@ -44,7 +44,7 @@ if($_version == 'v1'){
                             "vision" => [
                                 "titulo" => [
                                     "esp" => "vision",
-                                    "eng" => "vission"
+                                    "eng" => "vision"
                                 ],
                                 "contenido" => [
                                     "esp" => "Nosotros visualizamos como líderes en el campo de la consultoría y desarrollo de software, reconocidos por nuestra excelencia en el servicio al cliente, nuestra capacidad para adaptarnos a las necesidades cambiantes del mercado nuestra contribución al crecimiento y la transformación digital de las Compañias",
